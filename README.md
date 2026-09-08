@@ -44,7 +44,7 @@ Kotoba/
 
 ## Build and Run Instructions
 1. Clone the Repository
-   'git clone https://github.com/isenbaimoldir/Kotoba
+   'git clone https://github.com/isenbaimoldir/Kotoba'
 2. Open the project folder in Android Studio
 3. Let Gradle sync finish downloading dependencies
 4. Click Run to build and launch the app
