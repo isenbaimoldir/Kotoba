@@ -4,15 +4,16 @@ Kotoba is an Android vocabulary app which helps any level of Japanese learners t
 
 ## Features 
 
-- Add vocabulary
-- Edit vocabulary
-- Delete vocabulary
-- View saved vocabulary
 - Search vocabulary
-- Mark vocabulary as learned/unknown
-- Take vocabulary quizzes
-- View quiz results and progress
-- Works offline
+- View information about a vocabulary
+- Save vocabulary entries to personal study decks
+- Create, rename, and delete vocabulary decks
+- View and manage the vocabulary deck
+- Remove vocabulary from a deck
+- Mark vocabulary as learned or unlearned
+- Study vocabulary from a selected deck
+- View quiz results and learning progress
+- Store vocabulary, decks, and learning progress locally for offline use
 
 ## Project Structure
 ```
