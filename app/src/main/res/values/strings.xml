@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Kotoba</string>
+    <string name="title_vocabulary_list">Kotoba Vocabulary</string>
+    <string name="title_word_detail">Word Detail</string>
+    <string name="title_progress">Progress &amp; Stats</string>
+
+    <string name="cd_word_icon">Illustration for %1$s</string>
+    <string name="cd_back">Back navigation</string>
+    <string name="cd_empty">Empty list icon</string>
+    <string name="cd_learned_icon">Learned status icon</string>
+    <string name="cd_nav_vocabulary">Vocabulary list tab</string>
+    <string name="cd_nav_progress">Progress statistics tab</string>
+
+    <string name="label_learned_chip">Learned</string>
+    <string name="label_mark_learned">Mark as Learned</string>
+    <string name="label_mark_unlearned">Mark as Unlearned</string>
+    <string name="label_category">JLPT Level</string>
+    <string name="label_kanji">Kanji</string>
+    <string name="label_kana">Reading (Kana)</string>
+    <string name="label_meaning">Meaning (English)</string>
+    <string name="label_status">Status</string>
+
+    <string name="category_all">All</string>
+    <string name="empty_vocabulary_title">No vocabulary found</string>
+    <string name="empty_vocabulary_message">There are no words matching the selected category. Try selecting another level!</string>
+
+    <string name="stats_total">Total Words</string>
+    <string name="stats_learned">Learned</string>
+    <string name="stats_unlearned">To Learn</string>
+    <string name="stats_deck_progress">Deck Progress</string>
+    <string name="nav_vocabulary">Vocabulary</string>
+    <string name="nav_progress">Progress</string>
 </resources>
